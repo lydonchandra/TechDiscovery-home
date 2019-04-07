@@ -7,6 +7,9 @@ https://community.esri.com/groups/geodev/blog/2017/05/04/getting-started-with-el
 and 
 https://github.com/electron/electron-quick-start
 
+![point-cloud-electron](https://raw.githubusercontent.com/lydonchandra/TechDiscovery-home/master/electron-arcgis-api/screenshots/intro1.png "Point cloud electron")
+
+ 
 
 # electron-quick-start
 
