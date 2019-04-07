@@ -1,3 +1,13 @@
+# Electron - ArcGIS API for Javascript quick start
+
+Wrapped ArcGIS API Javascript in electron
+
+This repository was a merged clone from
+https://community.esri.com/groups/geodev/blog/2017/05/04/getting-started-with-electron-and-the-arcgis-api-for-javascript
+and 
+https://github.com/electron/electron-quick-start
+
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
